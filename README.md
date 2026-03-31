@@ -48,6 +48,14 @@
 
 ---
 
+
+
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ashwanimishra?theme=dark&font=baloo)
+
+---
+
 ## 🔥 Contribution Streak (Working)
 
 <p align="center">
