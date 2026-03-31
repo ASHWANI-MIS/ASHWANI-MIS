@@ -20,43 +20,18 @@
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
+  ## 🚀 Featured Projects
 
-<a href="https://github.com/ASHWANI-MIS/ASHWANI-MIS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ASHWANI-MIS&theme=tokyonight&hide_border=true" />
-</a>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ASHWANI-MIS&theme=tokyonight)](https://github.com/ASHWANI-MIS/ASHWANI-MIS)
 
-<a href="https://github.com/ASHWANI-MIS/solveleet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=solveleet&theme=tokyonight&hide_border=true" />
-</a>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=solveleet&theme=tokyonight)](https://github.com/ASHWANI-MIS/solveleet)
 
-<a href="https://github.com/ASHWANI-MIS/Ashwani-mishra-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=Ashwani-mishra-&theme=tokyonight&hide_border=true" />
-</a>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=leetcode_solution&theme=tokyonight)](https://github.com/ASHWANI-MIS/leetcode_solution)
 
-<a href="https://github.com/ASHWANI-MIS/latest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=latest&theme=tokyonight&hide_border=true" />
-</a>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ProblemsSEPT&theme=tokyonight)](https://github.com/ASHWANI-MIS/ProblemsSEPT)
 
-<a href="https://github.com/ASHWANI-MIS/leetcode_solution">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=leetcode_solution&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/ASHWANI-MIS/Newproblem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=Newproblem&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/ASHWANI-MIS/ProblemsSEPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ProblemsSEPT&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/ASHWANI-MIS/NewRepo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=NewRepo&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=NewRepo&theme=tokyonight)](https://github.com/ASHWANI-MIS/NewRepo)
 
 ---
 
