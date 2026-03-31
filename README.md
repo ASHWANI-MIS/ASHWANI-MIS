@@ -28,19 +28,19 @@
 <p align="center">
 
 <a href="https://github.com/ASHWANI-MIS/solveleet">
-  <img src="https://img.shields.io/badge/solveleet-DSA-blue?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=solveleet&theme=default" />
 </a>
 
 <a href="https://github.com/ASHWANI-MIS/leetcode_solution">
-  <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=leetcode_solution&theme=default" />
 </a>
 
 <a href="https://github.com/ASHWANI-MIS/ProblemsSEPT">
-  <img src="https://img.shields.io/badge/Problems-SEPT-green?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ProblemsSEPT&theme=default" />
 </a>
 
 <a href="https://github.com/ASHWANI-MIS/ASHWANI-MIS">
-  <img src="https://img.shields.io/badge/Portfolio-Main-red?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ASHWANI-MIS&theme=default" />
 </a>
 
 </p>
