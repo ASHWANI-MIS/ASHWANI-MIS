@@ -1,35 +1,41 @@
 # 👋 Hi, I'm Ashwani Mishra
 
-🎓 B.Tech Student  
+🎓 B.Tech CSE Student  
 💻 Java | DSA | Web Development  
-🚀 Passionate about learning, coding & building projects  
+🚀 Passionate about building real-world projects & improving problem-solving skills  
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ashwani-mishra-2b1815295/
-- 💡 LeetCode: https://leetcode.com/u/ashwanimishra/
-
----
-
-## 🧠 Skills & Learning
-
-- 🔢 Data Structures & Algorithms  
-- 💻 Java Programming  
-- 🌐 HTML, CSS  
-- 🗄 Basics of Databases  
-- 🔧 Git & GitHub  
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashwani-mishra-2b1815295/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwani%20Mishra-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/ashwanimishra/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 My Projects
+## 🧠 Skills & Tech Stack
 
-- 📌 **Ashwani-mishra-** → HTML-based project  
-- 📌 **ProblemsSEPT** → DSA practice problems  
-- 📌 **java-demo** → Java practice codes  
-- 📌 **solveleet** → LeetCode solutions  
-- 📌 **Raj** → Personal/project repo  
+💻 **Languages:** Java  
+🌐 **Frontend:** HTML, CSS  
+🗄 **Database:** MySQL (Basics)  
+🛠 **Tools:** Git, GitHub, VS Code  
+📚 **Core:** Data Structures & Algorithms, OOPs  
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Ashwani-mishra-** – HTML-based project  
+🔹 **ProblemsSEPT** – DSA practice problems  
+🔹 **java-demo** – Java concepts & practice  
+🔹 **solveleet** – LeetCode solutions  
+🔹 **Raj** – Personal repository  
 
 ---
 
@@ -40,20 +46,33 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHWANI-MIS&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHWANI-MIS&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=ASHWANI-MIS&theme=tokyo-night)
 
 ---
 
-## 🎯 Goals
+## 🧠 Coding Progress
 
-- 🚀 Improve DSA problem-solving  
-- 💡 Build real-world projects  
-- 📚 Strengthen core CS concepts  
-- 🏆 Crack top tech interviews  
+- 📌 Solving DSA problems regularly  
+- 📌 Practicing LeetCode  
+- 📌 Improving problem-solving approach  
+- 📌 Learning real-world development  
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Reach 300+ DSA problems  
+- 💡 Build 3–5 strong projects  
+- 📚 Master Core Subjects (OOPs, DBMS)  
+- 🏆 Crack top product-based companies  
 
 ---
 
@@ -63,6 +82,6 @@
 
 ---
 
-## ✨ Quote
+## ⚡ Fun Fact
 
-⭐ *Consistency beats intensity.*
+💡 I believe in: *"Consistency beats intensity."*
