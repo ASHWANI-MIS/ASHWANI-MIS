@@ -21,18 +21,29 @@
 ---
 
 
-  ## 🚀 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ASHWANI-MIS&theme=tokyonight)](https://github.com/ASHWANI-MIS/ASHWANI-MIS)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=solveleet&theme=tokyonight)](https://github.com/ASHWANI-MIS/solveleet)
+## 🚀 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=leetcode_solution&theme=tokyonight)](https://github.com/ASHWANI-MIS/leetcode_solution)
+<p align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ProblemsSEPT&theme=tokyonight)](https://github.com/ASHWANI-MIS/ProblemsSEPT)
+<a href="https://github.com/ASHWANI-MIS/solveleet">
+  <img src="https://img.shields.io/badge/solveleet-DSA-blue?style=for-the-badge"/>
+</a>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=NewRepo&theme=tokyonight)](https://github.com/ASHWANI-MIS/NewRepo)
+<a href="https://github.com/ASHWANI-MIS/leetcode_solution">
+  <img src="https://img.shields.io/badge/LeetCode-Solutions-orange?style=for-the-badge"/>
+</a>
 
+<a href="https://github.com/ASHWANI-MIS/ProblemsSEPT">
+  <img src="https://img.shields.io/badge/Problems-SEPT-green?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ASHWANI-MIS/ASHWANI-MIS">
+  <img src="https://img.shields.io/badge/Portfolio-Main-red?style=for-the-badge"/>
+</a>
+
+</p>
 ---
 
 ## 📌 Repository Highlights
