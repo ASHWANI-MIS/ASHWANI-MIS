@@ -36,7 +36,12 @@
 
 <a href="https://github.com/ASHWANI-MIS/ProblemsSEPT">
   <img src="https://img.shields.io/badge/Problems-SEPT-green?style=for-the-badge"/>
+</a> 
+
+<a href="https://github.com/ASHWANI-MIS/STUDENT_MANAGEMENT_SYSTEM">
+  <img src="https://img.shields.io/badge/STUDENT_MANAGEMENT_SYSTEM-pink?style=for-the-badge"/>
 </a>
+
 
 <a href="https://github.com/ASHWANI-MIS/ASHWANI-MIS">
   <img src="https://img.shields.io/badge/Portfolio-Main-red?style=for-the-badge"/>
