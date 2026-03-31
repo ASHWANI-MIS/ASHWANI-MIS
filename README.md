@@ -19,18 +19,63 @@
 
 ---
 
-## 🚀 My Repositories
+## 🚀 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/ASHWANI-MIS/Ashwani-mishra">
-    <img src="https://img.shields.io/github/stars/ASHWANI-MIS/Ashwani-mishra?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/ASHWANI-MIS/ProblemsSEPT">
-    <img src="https://img.shields.io/github/stars/ASHWANI-MIS/ProblemsSEPT?style=for-the-badge"/>
-  </a>
+
+<a href="https://github.com/ASHWANI-MIS/Ashwani-mishra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=Ashwani-mishra&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ASHWANI-MIS/ProblemsSEPT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ProblemsSEPT&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ASHWANI-MIS/leetcode_solution">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=leetcode_solution&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/ASHWANI-MIS/solveleet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=solveleet&theme=tokyonight" />
+</a>
+
 </p>
+
 ---
 
+## 📌 Repository Highlights
+
+🔹 **Ashwani-mishra**  
+Personal portfolio / main project repository showcasing your work.
+
+🔹 **ProblemsSEPT**  
+Collection of problem-solving assignments and practice questions.
+
+🔹 **leetcode_solution**  
+Structured solutions to LeetCode problems in Java.
+
+🔹 **solveleet**  
+Focused DSA practice repository for coding interviews.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ASHWANI-MIS&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHWANI-MIS&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,git,github" />
+</p>
 
 
 
