@@ -28,22 +28,27 @@
 <p align="center">
 
 <a href="https://github.com/ASHWANI-MIS/solveleet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=solveleet&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=solveleet&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/ASHWANI-MIS/leetcode_solution">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=leetcode_solution&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=leetcode_solution&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/ASHWANI-MIS/ProblemsSEPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ProblemsSEPT&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ProblemsSEPT&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/ASHWANI-MIS/NewRepo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=NewRepo&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/ASHWANI-MIS/ASHWANI-MIS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ASHWANI-MIS&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ASHWANI-MIS&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
+
 ---
 
 ## 📌 Repository Highlights
