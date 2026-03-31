@@ -29,13 +29,31 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Repositories
 
-🔹 **Ashwani-mishra-** – HTML-based project  
-🔹 **ProblemsSEPT** – DSA practice problems  
-🔹 **java-demo** – Java concepts & practice  
-🔹 **solveleet** – LeetCode solutions  
-🔹 **Raj** – Personal repository  
+<p align="center">
+
+<a href="https://github.com/ASHWANI-MIS/Ashwani-mishra-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=Ashwani-mishra-&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ASHWANI-MIS/ProblemsSEPT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ProblemsSEPT&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ASHWANI-MIS/java-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=java-demo&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ASHWANI-MIS/solveleet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=solveleet&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ASHWANI-MIS/Raj">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=Raj&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 
 ---
 
@@ -52,27 +70,26 @@
 
 ---
 
+## 📅 Contributions This Year
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ASHWANI-MIS&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
 ## 📈 Contribution Activity
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=ASHWANI-MIS&theme=tokyo-night)
 
 ---
 
-## 🧠 Coding Progress
-
-- 📌 Solving DSA problems regularly  
-- 📌 Practicing LeetCode  
-- 📌 Improving problem-solving approach  
-- 📌 Learning real-world development  
-
----
-
-## 🎯 2026 Goals
+## 🎯 Goals
 
 - 🚀 Reach 300+ DSA problems  
-- 💡 Build 3–5 strong projects  
-- 📚 Master Core Subjects (OOPs, DBMS)  
-- 🏆 Crack top product-based companies  
+- 💡 Build strong real-world projects  
+- 📚 Master core CS subjects  
+- 🏆 Crack top tech companies  
 
 ---
 
@@ -82,6 +99,6 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Quote
 
-💡 I believe in: *"Consistency beats intensity."*
+⭐ *Consistency beats intensity.*
