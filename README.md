@@ -8,8 +8,8 @@
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: *(Add your link here)*  
-- 💡 LeetCode: *(Add your profile here)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/ashwani-mishra-2b1815295/
+- 💡 LeetCode: https://leetcode.com/u/ashwanimishra/
 
 ---
 
