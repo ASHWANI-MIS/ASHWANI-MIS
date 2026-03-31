@@ -22,21 +22,22 @@
 ## 🚀 My Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ProblemsSEPT&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=java-demo&theme=tokyonight"/>
+  <a href="https://github.com/ASHWANI-MIS/ProblemsSEPT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ProblemsSEPT&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/ASHWANI-MIS/java-demo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=java-demo&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=solveleet&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=Raj&theme=tokyonight"/>
+  <a href="https://github.com/ASHWANI-MIS/solveleet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=solveleet&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/ASHWANI-MIS/Raj">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=Raj&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
-
-<!-- Add this only if repo name is EXACT -->
-<!-- Replace if wrong -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=Ashwani-mishra-&theme=tokyonight"/>
-</p>
-
 ---
 
 
