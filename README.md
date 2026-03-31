@@ -22,20 +22,11 @@
 ## 🚀 My Repositories
 
 <p align="center">
+  <a href="https://github.com/ASHWANI-MIS/Ashwani-mishra">
+    <img src="https://img.shields.io/github/stars/ASHWANI-MIS/Ashwani-mishra?style=for-the-badge"/>
+  </a>
   <a href="https://github.com/ASHWANI-MIS/ProblemsSEPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=ProblemsSEPT&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/ASHWANI-MIS/java-demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=java-demo&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ASHWANI-MIS/solveleet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=solveleet&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/ASHWANI-MIS/Raj">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ASHWANI-MIS&repo=Raj&theme=tokyonight&hide_border=true"/>
+    <img src="https://img.shields.io/github/stars/ASHWANI-MIS/ProblemsSEPT?style=for-the-badge"/>
   </a>
 </p>
 ---
